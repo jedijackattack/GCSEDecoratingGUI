@@ -7,4 +7,3 @@ while True:
     print(' 2 - Open tab ')
     print(' 3 - Delete tab ')
     print(' 4 - Quit ')
-    option = 
