@@ -2,7 +2,6 @@
 # Last edited 24/06/2016 #
 # Most recent changes made by: jedijackattack #
 
-'''
 ------Basics for code-----
 
 Indent size must be 4
@@ -46,10 +45,10 @@ If you report a issues please tag it correctly.
 
 Milestones will have due dates, if you can not finish it with in that time, talk to the project manager(s)
 
-Never directly push to master unless given express permision by the project manager, 
+Never directly push to master unless given express permission by the project manager,
 always make a new branch/fork and ask for review and merge.
 
-Allways pull down the latest version before you start editing.
+Always pull down the latest version before you start editing.
 
-'''
+
 
